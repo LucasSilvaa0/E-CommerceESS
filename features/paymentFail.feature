@@ -1,3 +1,5 @@
+# Cadastro e Manutenção de Métodos de Pagamento (inserir, remover, atualizar) - Lucas Carvalho
+
 Scenario 1: Cadastro de cartão sem sucesso por nome incorreto
 Given o usuário está na página de "Cadastro de cartão"
 When seleciona a opção "Adicionar novo cartão"
